@@ -23,7 +23,7 @@ I architected [Selegic CRM](https://crm.selegic.workers.dev) from scratch and le
 - [Doc Gen](https://doc-gen.selegic.workers.dev): templates to DOCX and PDF, from the web, an API, or inside Salesforce
 - [Selegic Internal](https://internal.selegic.com): the team's time tracker
 - [Switch to Classic](https://github.com/selegic/switch-to-classic): one click from Salesforce Lightning to Classic
-- AttentaFit and Attenta: SwiftUI apps for fitness, diet, meditation, sleep, and yoga
+- AttentaFit and Attenta Yoga: SwiftUI apps for fitness, diet, meditation, sleep, and yoga
 
 ## What I do
 
