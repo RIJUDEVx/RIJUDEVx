@@ -11,7 +11,7 @@
 
 # Hey, I'm Riju 👋
 
-I'm a Senior Software Developer at [Selegic](https://selegic.com) in Kolkata. I'm a backend-leaning full-stack developer with about five years of shipping end to end: APIs, data models, web apps, and native iOS apps.
+I'm a Senior Software Engineer at [Selegic](https://selegic.com) in Kolkata. I'm a backend-leaning full-stack developer with about five years of shipping end to end: APIs, data models, web apps, and native iOS apps.
 
 I architected [Selegic CRM](https://crm.selegic.workers.dev) from scratch and lead the team building on it.
 
